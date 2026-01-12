@@ -60,7 +60,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>trustchex</string>
+				<string>flutterexample</string>
 			</array>
 		</dict>
 	</array>

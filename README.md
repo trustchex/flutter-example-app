@@ -165,7 +165,7 @@ Add to `ios/Runner/Info.plist`:
   <dict>
     <key>CFBundleURLSchemes</key>
     <array>
-      <string>trustchex</string>
+      <string>flutterexample</string>
     </array>
   </dict>
 </array>
@@ -180,7 +180,7 @@ Add to `android/app/src/main/AndroidManifest.xml` inside `<activity>`:
   <action android:name="android.intent.action.VIEW" />
   <category android:name="android.intent.category.DEFAULT" />
   <category android:name="android.intent.category.BROWSABLE" />
-  <data android:scheme="trustchex" />
+  <data android:scheme="flutterexample" />
 </intent-filter>
 ```
 
