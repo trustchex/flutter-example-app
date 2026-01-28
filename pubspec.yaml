@@ -2,7 +2,7 @@ name: flutter_example_app
 description: "Example app demonstrating Trustchex Flutter SDK for identity verification and KYC."
 publish_to: 'none'
 
-version: 1.334.0+1
+version: 1.338.7+1
 
 environment:
   sdk: ^3.10.7
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  trustchex_flutter_sdk: ^1.334.0
+  trustchex_flutter_sdk: ^1.338.7
 
 dev_dependencies:
   flutter_test:

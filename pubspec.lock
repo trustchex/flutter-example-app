@@ -798,10 +798,10 @@ packages:
     dependency: "direct main"
     description:
       name: trustchex_flutter_sdk
-      sha256: "3de48b62439683bb9f5b9ab8bb7872a1e5730765071e6a9dd5df7106eded2aec"
+      sha256: "6ec4a3a8c11e383f03d56ed0961f96a4f785cccab633d3cf6d05aa4c4be8fe32"
       url: "https://pub.dev"
     source: hosted
-    version: "1.334.0"
+    version: "1.338.7"
   typed_data:
     dependency: transitive
     description:
